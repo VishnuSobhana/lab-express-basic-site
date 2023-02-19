@@ -1,0 +1,8 @@
+* {
+  background-color: blue;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+}
